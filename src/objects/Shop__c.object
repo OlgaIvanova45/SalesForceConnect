@@ -249,6 +249,18 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Quantity1__c</fullName>
+        <externalId>false</externalId>
+        <label>Quantity1</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>2</scale>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Quantity__c</fullName>
         <externalId>false</externalId>
         <label>Quantity</label>
